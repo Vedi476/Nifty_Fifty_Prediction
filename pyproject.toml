@@ -1,0 +1,16 @@
+[project]
+name = "nifty-prediction"
+version = "0.1.0"
+description = "NIFTY intraday price prediction using linear regression built from scratch"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy",
+    "pandas",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
