@@ -80,8 +80,6 @@ Real NIFTY intraday data isn't checked into this repo — it's a big file, and d
 | R² | 0.9495 |
 | Correlation | 0.9748 |
 
-![Training loss curve](assets/loss_curve.png)
-![Predicted vs actual price](assets/predictions_vs_actual.png)
 
 ## The part where I keep myself honest
 
